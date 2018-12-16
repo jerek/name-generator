@@ -1,0 +1,9 @@
+### GENERAL IDE FILES
+
+.idea
+.DS_Store
+
+### DIST FILES TO BE CUSTOMIZED
+
+# Devs need to customize these from their .dist files.
+docker-compose.yml
